@@ -48,16 +48,8 @@ Agricultural outcomes are shaped by seasonal shifts in rainfall, temperature, so
 - Matplotlib, Seaborn — data visualization
 - SciPy — statistical testing (ANOVA)
 
-## Repository Structure
-
-```
-├── seasonal_agriculture_performance_dataset.csv   # Raw dataset
-├── Seasonal_Agriculture_Performance_Analysis.ipynb # Full analysis notebook
-└── README.md
-```
 
 ## Author
 
 Abhilash Pandey
-College of Innovative Management and Sciences
-VOIS AICTE Batch 2026-2027
+
